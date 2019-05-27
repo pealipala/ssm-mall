@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="taotao-order-web:war">
+    <output-path>$PROJECT_DIR$/../taotao-cart/taotao-order-web/target</output-path>
+    <root id="archive" name="taotao-sso-web.war">
+      <element id="artifact" artifact-name="taotao-order-web:war exploded" />
+    </root>
+  </artifact>
+</component>
